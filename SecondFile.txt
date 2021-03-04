@@ -1,0 +1,6 @@
+git status ...To see the current status of working diractory
+We gonna add something ghghjgg
+WE add git commit -m
+git config --global user.email "sayeedins@yahoo.com"
+git config -- global user.name "sayeedin"
+secondfile
