@@ -1,0 +1,2 @@
+git status ...To see the current status of working diractory
+We gonna add something ghghjgg
